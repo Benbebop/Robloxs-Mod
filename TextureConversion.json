@@ -22,19 +22,39 @@
 			},
 			"blue":{
 				"Material":"SmoothPlastic",
-				"Color3":[0,0,100]
+				"Color3":[0,0,150]
 			},
 			"cable":{
 				"Material":"SmoothPlastic",
 				"Color3":[20,20,20]
 			},
-			"Chain":{
+			"chain":{
 				"Material":"Metal",
 				"Color3":[0,0,0]
 			},
-			"D":{
+			"dx8cable":{
+				"Material":"SmoothPlastic",
+				"Color3":[20,20,20]
+			},
+			"dx8chain":{
 				"Material":"Metal",
-				"Color3":[0,0,0]
+				"Color3":[255,255,255]
+			},
+			"green":{
+				"Material":"SmoothPlastic",
+				"Color3":[0,150,0]
+			},
+			"new_cable_lit":{
+				"Material":"SmoothPlastic",
+				"Color3":[255,255,255]
+			},
+			"red":{
+				"Material":"SmoothPlastic",
+				"Color3":[150,0,0]
+			},
+			"rope":{
+				"Material":"Wood",
+				"Color3":[100,40,0]
 			}
 		},
 		"composite":{},
