@@ -1,1 +1,50 @@
-{"Textures":
+// uses the .vpk file structure
+
+"root":{
+	"materials":{
+		"brick":{},
+		"building_template":{},
+		"cable":{},
+		"composite":{},
+		"concrete":{},
+		"console":{},
+		"customcubemaps":{},
+		"debug":{},
+		"decals":{
+			"alienflesh":{},
+			"antlion":{},
+			"bloodyflesh":{},
+			"concrete":{},
+			"flesh":{},
+			"glass":{},
+			"metal":{},
+			"wood":{}
+		},
+		"detail":{},
+		"dev":{},
+		"editor":{},
+		"effects":{
+			"comball":{},
+			"combineshield":{},
+			"tp_eyefx":{}
+		},
+		"engine":{},
+		"environment maps":{},
+		"glass":{},
+		"halflife":{},
+		"hlmv":{},
+		"lights":{},
+		"matsys_regressiontest":{},
+		"metal":{},
+		"models":{
+			
+		},
+		"nature":{},
+		"overlays":{},
+		"particle":{},
+		"perftest":{},
+		"plaster":{},
+		"props":{},
+		"scripted":{}
+	}
+}
