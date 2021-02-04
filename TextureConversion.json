@@ -12,7 +12,7 @@
 			},
 			"brickwall001a":{
 				"Material":"Bricks",
-				"Color3":[20,2,4]
+				"Color3":[20,2,4],
 				"Transparency":0
 			}
 		},
