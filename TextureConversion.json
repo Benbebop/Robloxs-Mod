@@ -7,7 +7,13 @@
 		"brick":{
 			"brickfloor001a":{
 				"Material":"Bricks",
-				"Color3":[50,0,0]
+				"Color3":[50,0,0],
+				"Transparency":0
+			},
+			"brickwall001a":{
+				"Material":"Bricks",
+				"Color3":[20,2,4]
+				"Transparency":0
 			}
 		},
 		"building_template":{},
