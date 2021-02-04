@@ -1,4 +1,4 @@
-// roblox materials and colors for all of the source textures I can find
+// roblox materials and colors for all of the HL2 textures I can find
 
 // uses the .vpk file structure
 
@@ -7,17 +7,36 @@
 		"brick":{
 			"brickfloor001a":{
 				"Material":"Bricks",
-				"Color3":[50,0,0],
-				"Transparency":0
+				"Color3":[50,0,0]
 			},
 			"brickwall001a":{
 				"Material":"Bricks",
-				"Color3":[20,2,4],
-				"Transparency":0
+				"Color3":[20,2,4]
 			}
 		},
 		"building_template":{},
-		"cable":{},
+		"cable":{
+			"black":{
+				"Material":"SmoothPlastic",
+				"Color3":[0,0,0]
+			},
+			"blue":{
+				"Material":"SmoothPlastic",
+				"Color3":[0,0,100]
+			},
+			"cable":{
+				"Material":"SmoothPlastic",
+				"Color3":[20,20,20]
+			},
+			"Chain":{
+				"Material":"Metal",
+				"Color3":[0,0,0]
+			},
+			"D":{
+				"Material":"Metal",
+				"Color3":[0,0,0]
+			}
+		},
 		"composite":{},
 		"concrete":{},
 		"console":{},
