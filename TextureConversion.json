@@ -102,17 +102,17 @@
 			"citymap002b":{
 				"Material":"Fabric",
 				"Color3":[0,0,0],
-				"TextureId":"buildingset056a"
+				"TextureId":"citymap002b"
 			},
 			"citymap002c":{
 				"Material":"Fabric",
 				"Color3":[0,0,0],
-				"TextureId":"buildingset056a"
-			}
+				"TextureId":"citymap002c"
+			},
 			"citymap002d":{
 				"Material":"Fabric",
 				"Color3":[0,0,0],
-				"TextureId":"buildingset056a"
+				"TextureId":"citymap002d"
 			}
 		},
 		"concrete":{},
