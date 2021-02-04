@@ -2,7 +2,12 @@
 
 "root":{
 	"materials":{
-		"brick":{},
+		"brick":{
+			"brickfloor001a":{
+				"Material":"Bricks",
+				"Color3":[50,0,0]
+			}
+		},
 		"building_template":{},
 		"cable":{},
 		"composite":{},
