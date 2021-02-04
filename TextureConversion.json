@@ -57,11 +57,73 @@
 				"Color3":[100,40,0]
 			}
 		},
-		"composite":{},
+		"composite":{
+			"buildingset040a":{
+				"Material":"Concrete",
+				"Color3":[200,200,200]
+			},
+			"buildingset056a":{
+				"Material":"Plastic"
+				"Color3":[0,0,0]
+				"Transparency":1
+				"TextureId":"buildingset056a"
+			},
+			"buildingset056b":{
+				"Material":"Plastic"
+				"Color3":[0,0,0]
+				"Transparency":1
+				"TextureId":"buildingset056b"
+			},
+			"citymap001a":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"citymap001a"
+			},
+			"citymap001b":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"citymap001b"
+			},
+			"citymap001c":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"citymap001c"
+			},
+			"citymap001d":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"citymap001d"
+			},
+			"citymap002a":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"citymap002a"
+			},
+			"citymap002b":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"buildingset056a"
+			},
+			"citymap002c":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"buildingset056a"
+			}
+			"citymap002d":{
+				"Material":"Fabric"
+				"Color3":[0,0,0]
+				"TextureId":"buildingset056a"
+			}
+		},
 		"concrete":{},
 		"console":{},
 		"customcubemaps":{},
-		"debug":{},
+		"debug":{
+			"debugempty":{
+				"Material":"Neon"
+				"Color3":[255,150,150]
+			}
+		},
 		"decals":{
 			"alienflesh":{},
 			"antlion":{},
