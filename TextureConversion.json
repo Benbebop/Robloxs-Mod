@@ -1,5 +1,7 @@
 // uses the .vpk file structure
 
+// currently supports HL2
+
 "root":{
 	"materials":{
 		"brick":{},
