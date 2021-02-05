@@ -1,1 +1,4891 @@
-{"root":{"UIPadding":{"PaddingLeft":[0,5],"Archivable":true,"PaddingRight":[0,0],"Parent":null,"Name":"UIPadding","PaddingBottom":[0,0],"PaddingTop":[0,0]},"Meshes/RIconScalable":{"LeftParamB":0.5,"LeftParamA":-0.5,"Rotation":"0, 90, 0","BottomSurface":0,"CustomPhysicalProperties":"nil","CFrame":[0,-1.25,0,0,0,1,0,1,-0,-1,0,0],"Parent":null,"BackParamA":-0.5,"RightSurfaceInput":0,"Archivable":true,"Material":288,"BottomParamA":-0.5,"RotVelocity":"0, 0, 0","LeftSurfaceInput":0,"TopParamA":-0.5,"TopParamB":0.5,"Name":"Meshes/RIconScalable","CollisionGroupId":0,"Transparency":0,"Color":[1,1,1],"RightSurface":0,"Locked":false,"Velocity":"0, 0, 0","LeftSurface":0,"Orientation":"0, 90, 0","TopSurfaceInput":0,"BackSurfaceInput":0,"RightParamA":-0.5,"TopSurface":0,"CanCollide":true,"FrontParamA":-0.5,"BottomParamB":0.5,"FrontSurface":0,"BackSurface":0,"BottomSurfaceInput":0,"FrontSurfaceInput":0,"BrickColor":"Institutional white","FrontParamB":0.5,"Size":"0.468804002, 1.2596669e-16, 0.575389981","Position":"0, -1.25, 0","Anchored":false,"Reflectance":0,"BackParamB":0.5,"TextureID":"","RightParamB":0.5},"input":{"ClipsDescendants":false,"LayoutOrder":2,"Name":"input","Font":10,"Position":[0.5,0,0.5,0],"SelectionImageObject":"nil","Text":"","Rotation":0,"TextColor3":[0,0,0],"PlaceholderText":"","NextSelectionRight":"nil","ClearTextOnFocus":false,"AnchorPoint":[0.5,0.5],"MultiLine":false,"TextSize":14,"Archivable":true,"TextTruncate":0,"TextXAlignment":0,"TextScaled":false,"Size":[1,-14,1,0],"TextYAlignment":1,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":0,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"Visible":true,"PlaceholderColor3":[0.699999988079071044921875,0.699999988079071044921875,0.699999988079071044921875],"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LineHeight":1,"ShowNativeInput":true,"ZIndex":1,"TextWrapped":false,"TextTransparency":0,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"Gamemode":{"ClipsDescendants":false,"Name":"Gamemode","LayoutOrder":2,"Selectable":false,"SizeConstraint":0,"Position":[1,-3,0.5,0],"Size":[0,120,1,-8],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[1,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"UITableLayout":{"MajorAxis":0,"Archivable":true,"FillEmptySpaceColumns":true,"FillEmptySpaceRows":true,"SortOrder":2,"Parent":null,"Padding":[0,12,0,12],"Name":"UITableLayout","VerticalAlignment":0,"HorizontalAlignment":0,"FillDirection":0},"maps":{"ClipsDescendants":false,"Name":"maps","LayoutOrder":0,"Selectable":true,"SizeConstraint":0,"Position":[0,12,0,12],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0,0],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Text":[],"BottomRight":{"ClipsDescendants":false,"LayoutOrder":3,"Name":"BottomRight","Font":3,"Position":[0.5,0,1,-15],"SelectionImageObject":"nil","Text":"","Rotation":0,"TextColor3":[0,0,0],"PlaceholderText":"Image ID","NextSelectionRight":"nil","ClearTextOnFocus":true,"AnchorPoint":[0.5,1],"MultiLine":false,"TextSize":14,"Archivable":true,"TextTruncate":0,"TextXAlignment":2,"TextScaled":false,"Size":[0,200,0,20],"TextYAlignment":1,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"Visible":true,"PlaceholderColor3":[0.699999988079071044921875,0.699999988079071044921875,0.699999988079071044921875],"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LineHeight":1,"ShowNativeInput":true,"ZIndex":1,"TextWrapped":false,"TextTransparency":0,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"Global":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Name":"Global","Font":3,"TextColor3":[0,0,0],"Rotation":0,"Text":"","NextSelectionLeft":"nil","TextXAlignment":2,"NextSelectionRight":"nil","Visible":false,"Archivable":true,"TextSize":28,"AnchorPoint":[0.5,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,28],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"LayoutOrder":1,"LineHeight":1},"Subtitle":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[1,0,0,0],"Name":"Subtitle","Font":3,"TextColor3":[0.60000002384185791015625,0.60000002384185791015625,0.60000002384185791015625],"Rotation":0,"Text":"","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":20,"AnchorPoint":[1,0],"TextScaled":false,"TextYAlignment":2,"Size":[1,-200,0,40],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":0,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"LayoutOrder":0,"LineHeight":1},"Desc":{"ClipsDescendants":false,"Name":"Desc","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0,0,0,0],"Size":[0,400,0,175],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0,0],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[0,0,0],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Back":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,3,0.5,0],"Name":"Back","Font":3,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[0,0,0],"Text":"","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":2,"Archivable":true,"TextSize":14,"AnchorPoint":[0,0.5],"Visible":false,"TextScaled":false,"TextYAlignment":1,"Size":[0,120,1,-8],"AutoButtonColor":false,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"Language":{"ClipsDescendants":false,"Name":"Language","LayoutOrder":1,"Selectable":false,"SizeConstraint":2,"Position":[1,-3,0.5,0],"Size":[1,-8,1,-8],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[1,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Value":{"Archivable":true,"Name":"Value","Value":0,"Parent":null},"Background":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":0,"Name":"Background","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":true,"Enabled":true},"MenuArtTrigger":{"Name":"MenuArtTrigger","Archivable":true,"Parent":null,"Disabled":false,"LinkedSource":""},"Med":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0.5,0,1,0],"Name":"Med","Font":3,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"15R$","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":2,"Archivable":true,"TextSize":14,"AnchorPoint":[0.5,1],"Visible":true,"TextScaled":false,"TextYAlignment":1,"Size":[0.333000004291534423828125,0,0,14],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"GlobalTag":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Name":"GlobalTag","Font":3,"TextColor3":[0,0,0],"Rotation":0,"Text":"Global Funds","NextSelectionLeft":"nil","TextXAlignment":2,"NextSelectionRight":"nil","Visible":false,"Archivable":true,"TextSize":14,"AnchorPoint":[0.5,1],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,14],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"LayoutOrder":0,"LineHeight":1},"Progress":{"ClipsDescendants":false,"Name":"Progress","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[0,602,0,12],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"BottomLeft":{"ClipsDescendants":false,"LayoutOrder":2,"Name":"BottomLeft","Font":3,"Position":[0.5,0,1,-15],"SelectionImageObject":"nil","Text":"","Rotation":0,"TextColor3":[0,0,0],"PlaceholderText":"Image ID","NextSelectionRight":"nil","ClearTextOnFocus":true,"AnchorPoint":[0.5,1],"MultiLine":false,"TextSize":14,"Archivable":true,"TextTruncate":0,"TextXAlignment":2,"TextScaled":false,"Size":[0,200,0,20],"TextYAlignment":1,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"Visible":true,"PlaceholderColor3":[0.699999988079071044921875,0.699999988079071044921875,0.699999988079071044921875],"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LineHeight":1,"ShowNativeInput":true,"ZIndex":1,"TextWrapped":false,"TextTransparency":0,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"EditorStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,262],"Name":"EditorStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Editor","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.75,"LayoutOrder":0,"LineHeight":1},"Menu":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":1,"Name":"Menu","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":true,"Enabled":true},"UIGradient":[],"High":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[1,0,1,0],"Name":"High","Font":3,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"100R$","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":2,"Archivable":true,"TextSize":14,"AnchorPoint":[1,1],"Visible":true,"TextScaled":false,"TextYAlignment":1,"Size":[0.333000004291534423828125,0,0,14],"AutoButtonColor":false,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"ScrollingFrame":{"ClipsDescendants":true,"Name":"ScrollingFrame","ScrollBarImageTransparency":0,"Rotation":0,"HorizontalScrollBarInset":0,"ScrollBarThickness":12,"LayoutOrder":0,"VerticalScrollBarInset":0,"NextSelectionRight":"nil","ZIndex":1,"Archivable":true,"AnchorPoint":[1,1],"Visible":false,"ScrollBarImageColor3":[0,0,0],"ScrollingEnabled":true,"VerticalScrollBarPosition":0,"Position":[1,0,0,-10],"SelectionImageObject":"nil","ElasticBehavior":0,"Size":[4,0,5,0],"BottomImage":"rbxasset://textures/ui/Scroll/scroll-bottom.png","CanvasPosition":[0,0],"MidImage":"rbxasset://textures/ui/Scroll/scroll-middle.png","CanvasSize":[0,0,2,0],"NextSelectionUp":"nil","BackgroundTransparency":0,"Parent":null,"BorderSizePixel":0,"TopImage":"rbxasset://textures/ui/Scroll/scroll-top.png","RootLocalizationTable":"nil","SizeConstraint":0,"Selectable":true,"BackgroundColor3":[0.2000000178813934326171875,0.2000000178813934326171875,0.2000000178813934326171875],"AutoLocalize":true,"Active":true,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","ScrollingDirection":4,"NextSelectionLeft":"nil"},"TextBox":{"ClipsDescendants":false,"LayoutOrder":0,"Name":"TextBox","Font":3,"Position":[0.5,0,0,28],"SelectionImageObject":"nil","Text":"https://www.roblox.com/groups/9144340","Rotation":0,"TextColor3":[0,0,0],"PlaceholderText":"","NextSelectionRight":"nil","ClearTextOnFocus":true,"AnchorPoint":[0.5,0],"MultiLine":false,"TextSize":14,"Archivable":true,"TextTruncate":0,"TextXAlignment":2,"TextScaled":false,"Size":[1,0,0,22],"TextYAlignment":1,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"Visible":true,"PlaceholderColor3":[0.699999988079071044921875,0.699999988079071044921875,0.699999988079071044921875],"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LineHeight":1,"ShowNativeInput":true,"ZIndex":1,"TextWrapped":false,"TextTransparency":0,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"UICorner":[],"TopLeft":{"ClipsDescendants":false,"LayoutOrder":0,"Name":"TopLeft","Font":3,"Position":[0.5,0,1,-15],"SelectionImageObject":"nil","Text":"","Rotation":0,"TextColor3":[0,0,0],"PlaceholderText":"Image ID","NextSelectionRight":"nil","ClearTextOnFocus":true,"AnchorPoint":[0.5,1],"MultiLine":false,"TextSize":14,"Archivable":true,"TextTruncate":0,"TextXAlignment":2,"TextScaled":false,"Size":[0,200,0,20],"TextYAlignment":1,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"Visible":true,"PlaceholderColor3":[0.699999988079071044921875,0.699999988079071044921875,0.699999988079071044921875],"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LineHeight":1,"ShowNativeInput":true,"ZIndex":1,"TextWrapped":false,"TextTransparency":0,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"TopRight":{"ClipsDescendants":false,"LayoutOrder":1,"Name":"TopRight","Font":3,"Position":[0.5,0,1,-15],"SelectionImageObject":"nil","Text":"","Rotation":0,"TextColor3":[0,0,0],"PlaceholderText":"Image ID","NextSelectionRight":"nil","ClearTextOnFocus":true,"AnchorPoint":[0.5,1],"MultiLine":false,"TextSize":14,"Archivable":true,"TextTruncate":0,"TextXAlignment":2,"TextScaled":false,"Size":[0,200,0,20],"TextYAlignment":1,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"Visible":true,"PlaceholderColor3":[0.699999988079071044921875,0.699999988079071044921875,0.699999988079071044921875],"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LineHeight":1,"ShowNativeInput":true,"ZIndex":1,"TextWrapped":false,"TextTransparency":0,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"dragBar":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,0,0],"Name":"dragBar","Font":16,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"  console","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":0,"Archivable":true,"TextSize":14,"AnchorPoint":[0,0],"Visible":true,"TextScaled":false,"TextYAlignment":1,"Size":[1,0,0,20],"AutoButtonColor":false,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"textfits":{"Name":"textfits","Archivable":true,"Parent":null,"Disabled":false,"LinkedSource":""},"MultiplayerStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,30],"Name":"MultiplayerStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Find Multiplayer Game","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.75,"LayoutOrder":0,"LineHeight":1},"Buttons":{"ClipsDescendants":false,"Name":"Buttons","LayoutOrder":1,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,1,5],"Size":[1,0,0,16],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"CommandPrompt":{"ClipsDescendants":false,"Name":"CommandPrompt","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,-40],"Size":[0,450,0,350],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[0.4196078479290008544921875,0.4352941215038299560546875,0.4470588266849517822265625],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.2980392277240753173828125,0.3098039329051971435546875,0.3215686380863189697265625],"NextSelectionLeft":"nil"},"Gradient":{"ClipsDescendants":false,"Name":"Gradient","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0,0,0.5,0],"Size":[0,400,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":2,"AnchorPoint":[0,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"AmountTag":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Name":"AmountTag","Font":3,"TextColor3":[0,0,0],"Rotation":0,"Text":"Your Contribution","NextSelectionLeft":"nil","TextXAlignment":2,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":14,"AnchorPoint":[0.5,1],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,14],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":3,"TextTransparency":0,"LayoutOrder":3,"LineHeight":1},"Meshes/RLoadingScalable":{"LeftParamB":0.5,"LeftParamA":-0.5,"Rotation":"0, 90, 0","BottomSurface":0,"CustomPhysicalProperties":"nil","CFrame":[0,-2,0,-4.37113882867379288654774427414e-08,0,1,0,1,0,-1,0,-4.37113882867379288654774427414e-08],"Parent":null,"BackParamA":-0.5,"RightSurfaceInput":0,"Archivable":true,"Material":288,"BottomParamA":-0.5,"RotVelocity":"0, 0, 0","LeftSurfaceInput":0,"TopParamA":-0.5,"TopParamB":0.5,"Name":"Meshes/RLoadingScalable","CollisionGroupId":0,"Transparency":0,"Color":[1,1,1],"RightSurface":0,"Locked":false,"Velocity":"0, 0, 0","LeftSurface":0,"Orientation":"0, 90, 0","TopSurfaceInput":0,"BackSurfaceInput":0,"RightParamA":-0.5,"TopSurface":0,"CanCollide":true,"FrontParamA":-0.5,"BottomParamB":0.5,"FrontSurface":0,"BackSurface":0,"BottomSurfaceInput":0,"FrontSurfaceInput":0,"BrickColor":"Institutional white","FrontParamB":0.5,"Size":"2.97140408, 4.35205899e-16, 0.78422904","Position":"0, -2, 0","Anchored":false,"Reflectance":0,"BackParamB":0.5,"TextureID":"","RightParamB":0.5},"Item":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0.5,0,0,0],"Name":"Item","Font":10,"TextColor3":[0,0,0],"Rotation":0,"Text":"nil","NextSelectionLeft":"nil","TextXAlignment":2,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":18,"AnchorPoint":[0.5,1],"TextScaled":false,"TextYAlignment":1,"Size":[1,0,1,0],"BorderColor3":[0.105882354080677032470703125,0.16470588743686676025390625,0.20784313976764678955078125],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":0,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":true,"ZIndex":1,"TextTransparency":0,"LayoutOrder":0,"LineHeight":1},"HighResDisplay":{"ClipsDescendants":false,"Name":"HighResDisplay","LayoutOrder":0,"Selectable":false,"SizeConstraint":1,"Position":[0.5,0,0,0],"Size":[1,0,0.5,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Top":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":999999999,"Name":"Top","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":false,"Enabled":true},"Inputs":{"ClipsDescendants":false,"Name":"Inputs","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,1,0],"Size":[1,0,0,50],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,1],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"TR":{"ImageColor3":[1,1,1],"ClipsDescendants":false,"SliceScale":1,"ImageRectOffset":[0,0],"Rotation":0,"LayoutOrder":1,"Visible":true,"ZIndex":1,"SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Size":[0.5,2,0.5,2],"NextSelectionRight":"nil","TileSize":[1,0,1,0],"Image":"","Archivable":true,"AnchorPoint":[0.5,0.5],"SliceCenter":"0, 0, 0, 0","Name":"TR","BorderSizePixel":0,"BackgroundTransparency":1,"Parent":null,"ImageRectSize":[0,0],"NextSelectionUp":"nil","RootLocalizationTable":"nil","Selectable":false,"ScaleType":0,"SizeConstraint":0,"ImageTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"DupesStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,112],"Name":"DupesStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Dupes","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.75,"LayoutOrder":0,"LineHeight":1},"Multiplayer":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,0,30],"Name":"Multiplayer","Font":16,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"Find Multiplayer Game","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":0,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"Visible":false,"TextScaled":false,"TextYAlignment":1,"Size":[0,251,0,30],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"OptionsStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,202],"Name":"OptionsStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Options","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.75,"LayoutOrder":0,"LineHeight":1},"Bar":{"ClipsDescendants":false,"Name":"Bar","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,1,0],"Size":[1,0,0,48],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":3,"AnchorPoint":[0.5,1],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0.5,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[0,0,0],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Title":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[1,0,0,0],"Name":"Title","Font":3,"TextColor3":[0,0,0],"Rotation":0,"Text":"","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":50,"AnchorPoint":[1,0],"TextScaled":false,"TextYAlignment":1,"Size":[1,-200,0,50],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":0,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"LayoutOrder":0,"LineHeight":1},"UIListLayout":{"Archivable":true,"Parent":null,"SortOrder":2,"FillDirection":1,"Name":"UIListLayout","Padding":[0,0],"HorizontalAlignment":0,"VerticalAlignment":1},"IconRotate":{"Name":"IconRotate","Archivable":true,"Parent":null,"Disabled":false,"LinkedSource":""},"Loading":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":99999,"Name":"Loading","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":true,"Enabled":true},"Maps":{"ClipsDescendants":false,"Name":"Maps","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Addons":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":1,"Name":"Addons","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":false,"Enabled":false},"G1":{"ClipsDescendants":false,"Name":"G1","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,5,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":0,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[0,0,0],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Icon":{"ClipsDescendants":false,"Name":"Icon","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,-4,1,-4],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,0.93333339691162109375,0.466666698455810546875],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Button":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0.5,0,1,0],"Name":"Button","Font":3,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"Submit art","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":2,"Archivable":true,"TextSize":14,"AnchorPoint":[0.5,1],"Visible":true,"TextScaled":false,"TextYAlignment":1,"Size":[1,0,0,14],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"loadScreen":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":99999,"Name":"loadScreen","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":true,"Enabled":true},"Image":{"ImageColor3":[1,1,1],"ClipsDescendants":false,"SliceScale":1,"ImageRectOffset":[0,0],"Rotation":0,"LayoutOrder":0,"Visible":true,"ZIndex":1,"SelectionImageObject":"nil","Position":[0,0,0,0],"Size":[1,0,1,0],"NextSelectionRight":"nil","TileSize":[1,0,1,0],"Image":"rbxassetid://6182652203","Archivable":true,"AnchorPoint":[0,0],"SliceCenter":"0, 0, 0, 0","Name":"Image","BorderSizePixel":0,"BackgroundTransparency":1,"Parent":null,"ImageRectSize":[0,0],"NextSelectionUp":"nil","RootLocalizationTable":"nil","Selectable":false,"ScaleType":4,"SizeConstraint":0,"ImageTransparency":0,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"BorderColor3":[1,1,1],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"options":{"ClipsDescendants":false,"Name":"options","LayoutOrder":0,"Selectable":true,"SizeConstraint":0,"Position":[1,-12,0,12],"Size":[0,348,1,-74],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[1,0],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Support":{"ClipsDescendants":false,"Name":"Support","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Dupes":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,0,112],"Name":"Dupes","Font":16,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"Dupes","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":0,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"Visible":false,"TextScaled":false,"TextYAlignment":1,"Size":[0,70,0,30],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"Remaining":{"ClipsDescendants":false,"Name":"Remaining","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[1,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[1,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[0.070588238537311553955078125,0.58431375026702880859375,0.94509804248809814453125],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"ArtPop":{"ClipsDescendants":false,"Name":"ArtPop","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[0,400,0,250],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"AddonsStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,82],"Name":"AddonsStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Addons","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.5,"LayoutOrder":0,"LineHeight":1},"Stroke":{"ClipsDescendants":false,"Name":"Stroke","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0,2,0,2],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":0,"AnchorPoint":[0,0],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"frame":{"ClipsDescendants":false,"Name":"frame","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[0,0,0,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Amount":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Name":"Amount","Font":3,"TextColor3":[0,0,0],"Rotation":0,"Text":"","NextSelectionLeft":"nil","TextXAlignment":2,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":28,"AnchorPoint":[0.5,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,28],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"LayoutOrder":4,"LineHeight":1},"Flag":{"ImageColor3":[1,1,1],"ClipsDescendants":false,"SliceScale":1,"ImageRectOffset":[0,0],"Rotation":0,"LayoutOrder":0,"Visible":true,"ZIndex":1,"SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Size":[0,16,0,11],"NextSelectionRight":"nil","TileSize":[1,0,1,0],"Image":"rbxassetid://6192791582","Archivable":true,"AnchorPoint":[0.5,0.5],"SliceCenter":"0, 0, 0, 0","Name":"Flag","BorderSizePixel":0,"BackgroundTransparency":0,"Parent":null,"ImageRectSize":[0,0],"NextSelectionUp":"nil","RootLocalizationTable":"nil","Selectable":false,"ScaleType":0,"SizeConstraint":0,"ImageTransparency":0,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"gamemodes":{"ClipsDescendants":true,"Name":"gamemodes","ScrollBarImageTransparency":0,"Rotation":0,"HorizontalScrollBarInset":0,"ScrollBarThickness":6,"LayoutOrder":0,"VerticalScrollBarInset":0,"NextSelectionRight":"nil","ZIndex":1,"Archivable":true,"AnchorPoint":[0,0.5],"Visible":true,"ScrollBarImageColor3":[0.705882370471954345703125,0.705882370471954345703125,0.705882370471954345703125],"ScrollingEnabled":true,"VerticalScrollBarPosition":0,"Position":[0,0,0.5,0],"SelectionImageObject":"nil","ElasticBehavior":0,"Size":[0,200,1,0],"BottomImage":"rbxasset://textures/ui/Scroll/scroll-bottom.png","CanvasPosition":[0,0],"MidImage":"rbxasset://textures/ui/Scroll/scroll-middle.png","CanvasSize":[0,0,0,0],"NextSelectionUp":"nil","BackgroundTransparency":1,"Parent":null,"BorderSizePixel":0,"TopImage":"rbxasset://textures/ui/Scroll/scroll-top.png","RootLocalizationTable":"nil","SizeConstraint":0,"Selectable":true,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","ScrollingDirection":4,"NextSelectionLeft":"nil"},"Disabled":{"ClipsDescendants":false,"Name":"Disabled","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0,0,0,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0,0],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"UIGridLayout":{"Archivable":true,"SortOrder":2,"FillDirectionMaxCells":2,"Name":"UIGridLayout","HorizontalAlignment":0,"VerticalAlignment":0,"StartCorner":0,"CellSize":[0,150,0,20],"Parent":null,"CellPadding":[0,0,0,0],"FillDirection":0},"ImageLabel":{"NextSelectionLeft":"nil","Modal":false,"SliceScale":1,"ClipsDescendants":false,"HoverImage":"","Position":[0.5,0,1,0],"SelectionImageObject":"nil","Size":[1,0,1,-50],"PressedImage":"","Selected":false,"NextSelectionRight":"nil","TileSize":[1,0,1,0],"Image":"rbxassetid://6192984431","Archivable":true,"AnchorPoint":[0.5,1],"Rotation":0,"Style":0,"Visible":true,"ZIndex":1,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","SliceCenter":"0, 0, 0, 0","Name":"ImageLabel","ImageRectOffset":[0,0],"AutoButtonColor":false,"BackgroundTransparency":1,"BorderSizePixel":0,"Parent":null,"NextSelectionUp":"nil","ImageRectSize":[0,0],"RootLocalizationTable":"nil","Selectable":true,"ScaleType":3,"SizeConstraint":0,"ImageColor3":[1,1,1],"ImageTransparency":0,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0},"Meshes/RTextScalable":{"LeftParamB":0.5,"LeftParamA":-0.5,"Rotation":"0, 90, 0","BottomSurface":0,"CustomPhysicalProperties":"nil","CFrame":[0.25,-3.5,2.25,0,0,1,0,1,-0,-1,0,0],"Parent":null,"BackParamA":-0.5,"RightSurfaceInput":0,"Archivable":true,"Material":288,"BottomParamA":-0.5,"RotVelocity":"0, 0, 0","LeftSurfaceInput":0,"TopParamA":-0.5,"TopParamB":0.5,"Name":"Meshes/RTextScalable","CollisionGroupId":0,"Transparency":0,"Color":[1,1,1],"RightSurface":0,"Locked":false,"Velocity":"0, 0, 0","LeftSurface":0,"Orientation":"0, 90, 0","TopSurfaceInput":0,"BackSurfaceInput":0,"RightParamA":-0.5,"TopSurface":0,"CanCollide":true,"FrontParamA":-0.5,"BottomParamB":0.5,"FrontSurface":0,"BackSurface":0,"BottomSurfaceInput":0,"FrontSurfaceInput":0,"BrickColor":"Institutional white","FrontParamB":0.5,"Size":"4.48526812, 6.01498848e-16, 0.593586981","Position":"0.25, -3.5, 2.25","Anchored":false,"Reflectance":0,"BackParamB":0.5,"TextureID":"","RightParamB":0.5},"Games":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,0,0],"Name":"Games","Font":3,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[0,0,0],"Text":"","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":2,"Archivable":true,"TextSize":14,"AnchorPoint":[1,0.5],"Visible":true,"TextScaled":false,"TextYAlignment":1,"Size":[1,-8,1,-8],"AutoButtonColor":false,"NextSelectionUp":"nil","BackgroundTransparency":0,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":2,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"DisplayB":{"ImageColor3":[1,1,1],"ClipsDescendants":false,"SliceScale":1,"ImageRectOffset":[0,0],"Rotation":0,"LayoutOrder":0,"Visible":true,"ZIndex":1,"SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Size":[1,2,1,2],"NextSelectionRight":"nil","TileSize":[1,0,1,0],"Image":"","Archivable":true,"AnchorPoint":[0.5,0.5],"SliceCenter":"0, 0, 0, 0","Name":"DisplayB","BorderSizePixel":0,"BackgroundTransparency":0,"Parent":null,"ImageRectSize":[0,0],"NextSelectionUp":"nil","RootLocalizationTable":"nil","Selectable":false,"ScaleType":4,"SizeConstraint":0,"ImageTransparency":0,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"MenuArt":{"ClipsDescendants":false,"Name":"MenuArt","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"SavesStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,142],"Name":"SavesStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Saves","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.75,"LayoutOrder":0,"LineHeight":1},"NewGame":{"ResetOnSpawn":true,"Archivable":true,"RootLocalizationTable":"nil","DisplayOrder":1,"Name":"NewGame","Parent":null,"ZIndexBehavior":1,"AutoLocalize":true,"IgnoreGuiInset":false,"Enabled":false},"ViewportFrame":[],"G2":{"ClipsDescendants":false,"Name":"G2","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,5],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":0,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":0,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[0,0,0],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Options":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,0,202],"Name":"Options","Font":16,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"Options","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":0,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"Visible":false,"TextScaled":false,"TextYAlignment":1,"Size":[0,93,0,30],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"Visits":{"ClipsDescendants":false,"Name":"Visits","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Frame":{"ClipsDescendants":false,"Name":"Frame","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":0,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Update":{"ClipsDescendants":false,"Name":"Update","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[1,-50,0,50],"Size":[0,400,0,300],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":true,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[1,0],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Saves":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,0,142],"Name":"Saves","Font":16,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"Saves","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":0,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"Visible":false,"TextScaled":false,"TextYAlignment":1,"Size":[0,70,0,30],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"Updates":{"ClipsDescendants":false,"Name":"Updates","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Version":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[1,0,0,0],"Name":"Version","Font":10,"TextColor3":[1,1,1],"Rotation":0,"Text":"INDEV","NextSelectionLeft":"nil","TextXAlignment":1,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":14,"AnchorPoint":[1,0],"TextScaled":false,"TextYAlignment":0,"Size":[0,0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[1,1,1],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0.5,"LayoutOrder":0,"LineHeight":1},"Low":{"ClipsDescendants":false,"SelectionImageObject":"nil","Position":[0,0,1,0],"Name":"Low","Font":3,"NextSelectionDown":"nil","Style":0,"Rotation":0,"TextColor3":[1,1,1],"Text":"5R$","Selected":false,"TextStrokeColor3":[0,0,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextXAlignment":2,"Archivable":true,"TextSize":14,"AnchorPoint":[0,1],"Visible":true,"TextScaled":false,"TextYAlignment":1,"Size":[0.333000004291534423828125,0,0,14],"AutoButtonColor":true,"NextSelectionUp":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":true,"SizeConstraint":0,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":true,"LayoutOrder":0,"LineHeight":1,"NextSelectionRight":"nil","Modal":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"NextSelectionLeft":"nil"},"TextLabel":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Name":"TextLabel","Font":3,"TextColor3":[0.60000002384185791015625,0.60000002384185791015625,0.60000002384185791015625],"Rotation":90,"Text":":?","NextSelectionLeft":"nil","TextXAlignment":2,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":18,"AnchorPoint":[0.5,0.5],"TextScaled":false,"TextYAlignment":0,"Size":[1,0,1,0],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0.60000002384185791015625,0.60000002384185791015625,0.60000002384185791015625],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":1,"TextTransparency":0,"LayoutOrder":0,"LineHeight":1},"NewGameStroke":{"NextSelectionUp":"nil","SelectionImageObject":"nil","Position":[0,0,0,0],"Name":"NewGameStroke","Font":16,"TextColor3":[0,0,0],"Rotation":0,"Text":"Start New Game","NextSelectionLeft":"nil","TextXAlignment":0,"NextSelectionRight":"nil","Visible":true,"Archivable":true,"TextSize":30,"AnchorPoint":[0,0],"TextScaled":false,"TextYAlignment":1,"Size":[0,200,0,30],"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"TextStrokeColor3":[0,0,0],"NextSelectionDown":"nil","BackgroundTransparency":1,"BorderSizePixel":1,"Parent":null,"RootLocalizationTable":"nil","Selectable":false,"SizeConstraint":0,"ClipsDescendants":false,"TextTruncate":0,"TextStrokeTransparency":1,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"TextWrapped":false,"ZIndex":0,"TextTransparency":0.5,"LayoutOrder":0,"LineHeight":1},"output":{"ClipsDescendants":true,"Name":"output","ScrollBarImageTransparency":0,"Rotation":0,"HorizontalScrollBarInset":0,"ScrollBarThickness":12,"LayoutOrder":1,"VerticalScrollBarInset":0,"NextSelectionRight":"nil","ZIndex":1,"Archivable":true,"AnchorPoint":[0.5,0.5],"Visible":true,"ScrollBarImageColor3":[0,0,0],"ScrollingEnabled":true,"VerticalScrollBarPosition":0,"Position":[0,0,0,0],"SelectionImageObject":"nil","ElasticBehavior":0,"Size":[1,-8,1,-40],"BottomImage":"rbxasset://textures/ui/Scroll/scroll-bottom.png","CanvasPosition":[0,0],"MidImage":"rbxasset://textures/ui/Scroll/scroll-middle.png","CanvasSize":[0,0,0,0],"NextSelectionUp":"nil","BackgroundTransparency":0,"Parent":null,"BorderSizePixel":0,"TopImage":"rbxasset://textures/ui/Scroll/scroll-top.png","RootLocalizationTable":"nil","SizeConstraint":0,"Selectable":true,"BackgroundColor3":[0.2980392277240753173828125,0.3098039329051971435546875,0.3215686380863189697265625],"AutoLocalize":true,"Active":true,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","ScrollingDirection":2,"NextSelectionLeft":"nil"},"Maps2":{"ClipsDescendants":false,"Name":"Maps2","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"Editor":{"ClipsDescendants":false,"Name":"Editor","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0.5,0,0.5,0],"Size":[0,400,0,300],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0.5,0.5],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":0,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"},"BG":{"ImageColor3":[1,1,1],"ClipsDescendants":false,"SliceScale":1,"ImageRectOffset":[0,0],"Rotation":0,"LayoutOrder":0,"Visible":true,"ZIndex":2,"SelectionImageObject":"nil","Position":[0.5,0,0.5,0],"Size":[1,0,1,0],"NextSelectionRight":"nil","TileSize":[1,0,1,0],"Image":"","Archivable":true,"AnchorPoint":[0.5,0.5],"SliceCenter":"0, 0, 0, 0","Name":"BG","BorderSizePixel":1,"BackgroundTransparency":1,"Parent":null,"ImageRectSize":[0,0],"NextSelectionUp":"nil","RootLocalizationTable":"nil","Selectable":false,"ScaleType":4,"SizeConstraint":0,"ImageTransparency":0.89999997615814208984375,"BackgroundColor3":[1,1,1],"AutoLocalize":true,"Active":false,"BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionDown":"nil","NextSelectionLeft":"nil"},"exit":{"ClipsDescendants":false,"Name":"exit","LayoutOrder":0,"Selectable":false,"SizeConstraint":0,"Position":[0,0,0,0],"Size":[0,0,0,0],"SelectionImageObject":"nil","Rotation":0,"Style":0,"RootLocalizationTable":"nil","Visible":false,"NextSelectionRight":"nil","ZIndex":1,"AnchorPoint":[0,0],"Archivable":true,"BorderSizePixel":1,"BackgroundTransparency":1,"NextSelectionUp":"nil","Parent":null,"BackgroundColor3":[1,1,1],"Active":false,"AutoLocalize":true,"NextSelectionDown":"nil","BorderColor3":[0.10588236153125762939453125,0.16470588743686676025390625,0.2078431546688079833984375],"NextSelectionLeft":"nil"}}}
+{
+  "root": {
+    "UIPadding": {
+      "PaddingLeft": [
+        0,
+        5
+      ],
+      "Archivable": true,
+      "PaddingRight": [
+        0,
+        0
+      ],
+      "Parent": null,
+      "Name": "UIPadding",
+      "PaddingBottom": [
+        0,
+        0
+      ],
+      "PaddingTop": [
+        0,
+        0
+      ]
+    },
+    "Meshes/RIconScalable": {
+      "LeftParamB": 0.5,
+      "LeftParamA": -0.5,
+      "Rotation": "0, 90, 0",
+      "BottomSurface": 0,
+      "CustomPhysicalProperties": "nil",
+      "CFrame": [
+        0,
+        -1.25,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ],
+      "Parent": null,
+      "BackParamA": -0.5,
+      "RightSurfaceInput": 0,
+      "Archivable": true,
+      "Material": 288,
+      "BottomParamA": -0.5,
+      "RotVelocity": "0, 0, 0",
+      "LeftSurfaceInput": 0,
+      "TopParamA": -0.5,
+      "TopParamB": 0.5,
+      "Name": "Meshes/RIconScalable",
+      "CollisionGroupId": 0,
+      "Transparency": 0,
+      "Color": [
+        1,
+        1,
+        1
+      ],
+      "RightSurface": 0,
+      "Locked": false,
+      "Velocity": "0, 0, 0",
+      "LeftSurface": 0,
+      "Orientation": "0, 90, 0",
+      "TopSurfaceInput": 0,
+      "BackSurfaceInput": 0,
+      "RightParamA": -0.5,
+      "TopSurface": 0,
+      "CanCollide": true,
+      "FrontParamA": -0.5,
+      "BottomParamB": 0.5,
+      "FrontSurface": 0,
+      "BackSurface": 0,
+      "BottomSurfaceInput": 0,
+      "FrontSurfaceInput": 0,
+      "BrickColor": "Institutional white",
+      "FrontParamB": 0.5,
+      "Size": "0.468804002, 1.2596669e-16, 0.575389981",
+      "Position": "0, -1.25, 0",
+      "Anchored": false,
+      "Reflectance": 0,
+      "BackParamB": 0.5,
+      "TextureID": "",
+      "RightParamB": 0.5
+    },
+    "input": {
+      "ClipsDescendants": false,
+      "LayoutOrder": 2,
+      "Name": "input",
+      "Font": 10,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Text": "",
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "PlaceholderText": "",
+      "NextSelectionRight": "nil",
+      "ClearTextOnFocus": false,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "MultiLine": false,
+      "TextSize": 14,
+      "Archivable": true,
+      "TextTruncate": 0,
+      "TextXAlignment": 0,
+      "TextScaled": false,
+      "Size": [
+        1,
+        -14,
+        1,
+        0
+      ],
+      "TextYAlignment": 1,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 0,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Visible": true,
+      "PlaceholderColor3": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LineHeight": 1,
+      "ShowNativeInput": true,
+      "ZIndex": 1,
+      "TextWrapped": false,
+      "TextTransparency": 0,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "Gamemode": {
+      "ClipsDescendants": false,
+      "Name": "Gamemode",
+      "LayoutOrder": 2,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        1,
+        -3,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        120,
+        1,
+        -8
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        1,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "UITableLayout": {
+      "MajorAxis": 0,
+      "Archivable": true,
+      "FillEmptySpaceColumns": true,
+      "FillEmptySpaceRows": true,
+      "SortOrder": 2,
+      "Parent": null,
+      "Padding": [
+        0,
+        12,
+        0,
+        12
+      ],
+      "Name": "UITableLayout",
+      "VerticalAlignment": 0,
+      "HorizontalAlignment": 0,
+      "FillDirection": 0
+    },
+    "maps": {
+      "ClipsDescendants": false,
+      "Name": "maps",
+      "LayoutOrder": 0,
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Position": [
+        0,
+        12,
+        0,
+        12
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Text": [],
+    "BottomRight": {
+      "ClipsDescendants": false,
+      "LayoutOrder": 3,
+      "Name": "BottomRight",
+      "Font": 3,
+      "Position": [
+        0.5,
+        0,
+        1,
+        -15
+      ],
+      "SelectionImageObject": "nil",
+      "Text": "",
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "PlaceholderText": "Image ID",
+      "NextSelectionRight": "nil",
+      "ClearTextOnFocus": true,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "MultiLine": false,
+      "TextSize": 14,
+      "Archivable": true,
+      "TextTruncate": 0,
+      "TextXAlignment": 2,
+      "TextScaled": false,
+      "Size": [
+        0,
+        200,
+        0,
+        20
+      ],
+      "TextYAlignment": 1,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Visible": true,
+      "PlaceholderColor3": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LineHeight": 1,
+      "ShowNativeInput": true,
+      "ZIndex": 1,
+      "TextWrapped": false,
+      "TextTransparency": 0,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "Global": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Name": "Global",
+      "Font": 3,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 2,
+      "NextSelectionRight": "nil",
+      "Visible": false,
+      "Archivable": true,
+      "TextSize": 28,
+      "AnchorPoint": [
+        0.5,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        28
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 1,
+      "LineHeight": 1
+    },
+    "Subtitle": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Name": "Subtitle",
+      "Font": 3,
+      "TextColor3": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "Rotation": 0,
+      "Text": "",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 20,
+      "AnchorPoint": [
+        1,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 2,
+      "Size": [
+        1,
+        -200,
+        0,
+        40
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 0,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Desc": {
+      "ClipsDescendants": false,
+      "Name": "Desc",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Size": [
+        0,
+        400,
+        0,
+        175
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        0,
+        0,
+        0
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Back": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        3,
+        0.5,
+        0
+      ],
+      "Name": "Back",
+      "Font": 3,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Text": "",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 2,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0,
+        0.5
+      ],
+      "Visible": false,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        120,
+        1,
+        -8
+      ],
+      "AutoButtonColor": false,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "Language": {
+      "ClipsDescendants": false,
+      "Name": "Language",
+      "LayoutOrder": 1,
+      "Selectable": false,
+      "SizeConstraint": 2,
+      "Position": [
+        1,
+        -3,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        -8,
+        1,
+        -8
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        1,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Value": {
+      "Archivable": true,
+      "Name": "Value",
+      "Value": 0,
+      "Parent": null
+    },
+    "Background": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 0,
+      "Name": "Background",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": true,
+      "Enabled": true
+    },
+    "MenuArtTrigger": {
+      "Name": "MenuArtTrigger",
+      "Archivable": true,
+      "Parent": null,
+      "Disabled": false,
+      "LinkedSource": ""
+    },
+    "Med": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        1,
+        0
+      ],
+      "Name": "Med",
+      "Font": 3,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "15R$",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 2,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "Visible": true,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0.3330000042915344,
+        0,
+        0,
+        14
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "GlobalTag": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Name": "GlobalTag",
+      "Font": 3,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Global Funds",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 2,
+      "NextSelectionRight": "nil",
+      "Visible": false,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        14
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Progress": {
+      "ClipsDescendants": false,
+      "Name": "Progress",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        602,
+        0,
+        12
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "BottomLeft": {
+      "ClipsDescendants": false,
+      "LayoutOrder": 2,
+      "Name": "BottomLeft",
+      "Font": 3,
+      "Position": [
+        0.5,
+        0,
+        1,
+        -15
+      ],
+      "SelectionImageObject": "nil",
+      "Text": "",
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "PlaceholderText": "Image ID",
+      "NextSelectionRight": "nil",
+      "ClearTextOnFocus": true,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "MultiLine": false,
+      "TextSize": 14,
+      "Archivable": true,
+      "TextTruncate": 0,
+      "TextXAlignment": 2,
+      "TextScaled": false,
+      "Size": [
+        0,
+        200,
+        0,
+        20
+      ],
+      "TextYAlignment": 1,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Visible": true,
+      "PlaceholderColor3": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LineHeight": 1,
+      "ShowNativeInput": true,
+      "ZIndex": 1,
+      "TextWrapped": false,
+      "TextTransparency": 0,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "EditorStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        262
+      ],
+      "Name": "EditorStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Editor",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.75,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Menu": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 1,
+      "Name": "Menu",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": true,
+      "Enabled": true
+    },
+    "UIGradient": [],
+    "High": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Name": "High",
+      "Font": 3,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "100R$",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 2,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        1,
+        1
+      ],
+      "Visible": true,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0.3330000042915344,
+        0,
+        0,
+        14
+      ],
+      "AutoButtonColor": false,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "ScrollingFrame": {
+      "ClipsDescendants": true,
+      "Name": "ScrollingFrame",
+      "ScrollBarImageTransparency": 0,
+      "Rotation": 0,
+      "HorizontalScrollBarInset": 0,
+      "ScrollBarThickness": 12,
+      "LayoutOrder": 0,
+      "VerticalScrollBarInset": 0,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "Archivable": true,
+      "AnchorPoint": [
+        1,
+        1
+      ],
+      "Visible": false,
+      "ScrollBarImageColor3": [
+        0,
+        0,
+        0
+      ],
+      "ScrollingEnabled": true,
+      "VerticalScrollBarPosition": 0,
+      "Position": [
+        1,
+        0,
+        0,
+        -10
+      ],
+      "SelectionImageObject": "nil",
+      "ElasticBehavior": 0,
+      "Size": [
+        4,
+        0,
+        5,
+        0
+      ],
+      "BottomImage": "rbxasset://textures/ui/Scroll/scroll-bottom.png",
+      "CanvasPosition": [
+        0,
+        0
+      ],
+      "MidImage": "rbxasset://textures/ui/Scroll/scroll-middle.png",
+      "CanvasSize": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "Parent": null,
+      "BorderSizePixel": 0,
+      "TopImage": "rbxasset://textures/ui/Scroll/scroll-top.png",
+      "RootLocalizationTable": "nil",
+      "SizeConstraint": 0,
+      "Selectable": true,
+      "BackgroundColor3": [
+        0.20000001788139343,
+        0.20000001788139343,
+        0.20000001788139343
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "ScrollingDirection": 4,
+      "NextSelectionLeft": "nil"
+    },
+    "TextBox": {
+      "ClipsDescendants": false,
+      "LayoutOrder": 0,
+      "Name": "TextBox",
+      "Font": 3,
+      "Position": [
+        0.5,
+        0,
+        0,
+        28
+      ],
+      "SelectionImageObject": "nil",
+      "Text": "https://www.roblox.com/groups/9144340",
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "PlaceholderText": "",
+      "NextSelectionRight": "nil",
+      "ClearTextOnFocus": true,
+      "AnchorPoint": [
+        0.5,
+        0
+      ],
+      "MultiLine": false,
+      "TextSize": 14,
+      "Archivable": true,
+      "TextTruncate": 0,
+      "TextXAlignment": 2,
+      "TextScaled": false,
+      "Size": [
+        1,
+        0,
+        0,
+        22
+      ],
+      "TextYAlignment": 1,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Visible": true,
+      "PlaceholderColor3": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LineHeight": 1,
+      "ShowNativeInput": true,
+      "ZIndex": 1,
+      "TextWrapped": false,
+      "TextTransparency": 0,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "UICorner": [],
+    "TopLeft": {
+      "ClipsDescendants": false,
+      "LayoutOrder": 0,
+      "Name": "TopLeft",
+      "Font": 3,
+      "Position": [
+        0.5,
+        0,
+        1,
+        -15
+      ],
+      "SelectionImageObject": "nil",
+      "Text": "",
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "PlaceholderText": "Image ID",
+      "NextSelectionRight": "nil",
+      "ClearTextOnFocus": true,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "MultiLine": false,
+      "TextSize": 14,
+      "Archivable": true,
+      "TextTruncate": 0,
+      "TextXAlignment": 2,
+      "TextScaled": false,
+      "Size": [
+        0,
+        200,
+        0,
+        20
+      ],
+      "TextYAlignment": 1,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Visible": true,
+      "PlaceholderColor3": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LineHeight": 1,
+      "ShowNativeInput": true,
+      "ZIndex": 1,
+      "TextWrapped": false,
+      "TextTransparency": 0,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "TopRight": {
+      "ClipsDescendants": false,
+      "LayoutOrder": 1,
+      "Name": "TopRight",
+      "Font": 3,
+      "Position": [
+        0.5,
+        0,
+        1,
+        -15
+      ],
+      "SelectionImageObject": "nil",
+      "Text": "",
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "PlaceholderText": "Image ID",
+      "NextSelectionRight": "nil",
+      "ClearTextOnFocus": true,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "MultiLine": false,
+      "TextSize": 14,
+      "Archivable": true,
+      "TextTruncate": 0,
+      "TextXAlignment": 2,
+      "TextScaled": false,
+      "Size": [
+        0,
+        200,
+        0,
+        20
+      ],
+      "TextYAlignment": 1,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Visible": true,
+      "PlaceholderColor3": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LineHeight": 1,
+      "ShowNativeInput": true,
+      "ZIndex": 1,
+      "TextWrapped": false,
+      "TextTransparency": 0,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "dragBar": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Name": "dragBar",
+      "Font": 16,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "  console",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 0,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Visible": true,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        1,
+        0,
+        0,
+        20
+      ],
+      "AutoButtonColor": false,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "textfits": {
+      "Name": "textfits",
+      "Archivable": true,
+      "Parent": null,
+      "Disabled": false,
+      "LinkedSource": ""
+    },
+    "MultiplayerStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        30
+      ],
+      "Name": "MultiplayerStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Find Multiplayer Game",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.75,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Buttons": {
+      "ClipsDescendants": false,
+      "Name": "Buttons",
+      "LayoutOrder": 1,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        1,
+        5
+      ],
+      "Size": [
+        1,
+        0,
+        0,
+        16
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "CommandPrompt": {
+      "ClipsDescendants": false,
+      "Name": "CommandPrompt",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        -40
+      ],
+      "Size": [
+        0,
+        450,
+        0,
+        350
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        0.41960784792900085,
+        0.43529412150382996,
+        0.4470588266849518
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.2980392277240753,
+        0.30980393290519714,
+        0.32156863808631897
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Gradient": {
+      "ClipsDescendants": false,
+      "Name": "Gradient",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        400,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 2,
+      "AnchorPoint": [
+        0,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "AmountTag": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Name": "AmountTag",
+      "Font": 3,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Your Contribution",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 2,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        14
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 3,
+      "TextTransparency": 0,
+      "LayoutOrder": 3,
+      "LineHeight": 1
+    },
+    "Meshes/RLoadingScalable": {
+      "LeftParamB": 0.5,
+      "LeftParamA": -0.5,
+      "Rotation": "0, 90, 0",
+      "BottomSurface": 0,
+      "CustomPhysicalProperties": "nil",
+      "CFrame": [
+        0,
+        -2,
+        0,
+        -4.371138828673793e-8,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        -4.371138828673793e-8
+      ],
+      "Parent": null,
+      "BackParamA": -0.5,
+      "RightSurfaceInput": 0,
+      "Archivable": true,
+      "Material": 288,
+      "BottomParamA": -0.5,
+      "RotVelocity": "0, 0, 0",
+      "LeftSurfaceInput": 0,
+      "TopParamA": -0.5,
+      "TopParamB": 0.5,
+      "Name": "Meshes/RLoadingScalable",
+      "CollisionGroupId": 0,
+      "Transparency": 0,
+      "Color": [
+        1,
+        1,
+        1
+      ],
+      "RightSurface": 0,
+      "Locked": false,
+      "Velocity": "0, 0, 0",
+      "LeftSurface": 0,
+      "Orientation": "0, 90, 0",
+      "TopSurfaceInput": 0,
+      "BackSurfaceInput": 0,
+      "RightParamA": -0.5,
+      "TopSurface": 0,
+      "CanCollide": true,
+      "FrontParamA": -0.5,
+      "BottomParamB": 0.5,
+      "FrontSurface": 0,
+      "BackSurface": 0,
+      "BottomSurfaceInput": 0,
+      "FrontSurfaceInput": 0,
+      "BrickColor": "Institutional white",
+      "FrontParamB": 0.5,
+      "Size": "2.97140408, 4.35205899e-16, 0.78422904",
+      "Position": "0, -2, 0",
+      "Anchored": false,
+      "Reflectance": 0,
+      "BackParamB": 0.5,
+      "TextureID": "",
+      "RightParamB": 0.5
+    },
+    "Item": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0,
+        0
+      ],
+      "Name": "Item",
+      "Font": 10,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "nil",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 2,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 18,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "BorderColor3": [
+        0.10588235408067703,
+        0.16470588743686676,
+        0.2078431397676468
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 0,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": true,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "HighResDisplay": {
+      "ClipsDescendants": false,
+      "Name": "HighResDisplay",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 1,
+      "Position": [
+        0.5,
+        0,
+        0,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        0.5,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Top": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 999999999,
+      "Name": "Top",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": false,
+      "Enabled": true
+    },
+    "Inputs": {
+      "ClipsDescendants": false,
+      "Name": "Inputs",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        1,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        0,
+        50
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "TR": {
+      "ImageColor3": [
+        1,
+        1,
+        1
+      ],
+      "ClipsDescendants": false,
+      "SliceScale": 1,
+      "ImageRectOffset": [
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "LayoutOrder": 1,
+      "Visible": true,
+      "ZIndex": 1,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0.5,
+        2,
+        0.5,
+        2
+      ],
+      "NextSelectionRight": "nil",
+      "TileSize": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Image": "",
+      "Archivable": true,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "SliceCenter": "0, 0, 0, 0",
+      "Name": "TR",
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 1,
+      "Parent": null,
+      "ImageRectSize": [
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "ScaleType": 0,
+      "SizeConstraint": 0,
+      "ImageTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "DupesStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        112
+      ],
+      "Name": "DupesStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Dupes",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.75,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Multiplayer": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        30
+      ],
+      "Name": "Multiplayer",
+      "Font": 16,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "Find Multiplayer Game",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 0,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Visible": false,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        251,
+        0,
+        30
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "OptionsStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        202
+      ],
+      "Name": "OptionsStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Options",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.75,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Bar": {
+      "ClipsDescendants": false,
+      "Name": "Bar",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        1,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        0,
+        48
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 3,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0.5,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        0,
+        0,
+        0
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Title": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Name": "Title",
+      "Font": 3,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 50,
+      "AnchorPoint": [
+        1,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        1,
+        -200,
+        0,
+        50
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 0,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "UIListLayout": {
+      "Archivable": true,
+      "Parent": null,
+      "SortOrder": 2,
+      "FillDirection": 1,
+      "Name": "UIListLayout",
+      "Padding": [
+        0,
+        0
+      ],
+      "HorizontalAlignment": 0,
+      "VerticalAlignment": 1
+    },
+    "IconRotate": {
+      "Name": "IconRotate",
+      "Archivable": true,
+      "Parent": null,
+      "Disabled": false,
+      "LinkedSource": ""
+    },
+    "Loading": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 99999,
+      "Name": "Loading",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": true,
+      "Enabled": true
+    },
+    "Maps": {
+      "ClipsDescendants": false,
+      "Name": "Maps",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Addons": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 1,
+      "Name": "Addons",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": false,
+      "Enabled": false
+    },
+    "G1": {
+      "ClipsDescendants": false,
+      "Name": "G1",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        5,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 0,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        0,
+        0,
+        0
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Icon": {
+      "ClipsDescendants": false,
+      "Name": "Icon",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        -4,
+        1,
+        -4
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        0.9333333969116211,
+        0.46666669845581055
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Button": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        1,
+        0
+      ],
+      "Name": "Button",
+      "Font": 3,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "Submit art",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 2,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "Visible": true,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        1,
+        0,
+        0,
+        14
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "loadScreen": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 99999,
+      "Name": "loadScreen",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": true,
+      "Enabled": true
+    },
+    "Image": {
+      "ImageColor3": [
+        1,
+        1,
+        1
+      ],
+      "ClipsDescendants": false,
+      "SliceScale": 1,
+      "ImageRectOffset": [
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "LayoutOrder": 0,
+      "Visible": true,
+      "ZIndex": 1,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "NextSelectionRight": "nil",
+      "TileSize": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Image": "rbxassetid://6182652203",
+      "Archivable": true,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "SliceCenter": "0, 0, 0, 0",
+      "Name": "Image",
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 1,
+      "Parent": null,
+      "ImageRectSize": [
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "ScaleType": 4,
+      "SizeConstraint": 0,
+      "ImageTransparency": 0,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "BorderColor3": [
+        1,
+        1,
+        1
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "options": {
+      "ClipsDescendants": false,
+      "Name": "options",
+      "LayoutOrder": 0,
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "Position": [
+        1,
+        -12,
+        0,
+        12
+      ],
+      "Size": [
+        0,
+        348,
+        1,
+        -74
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        1,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Support": {
+      "ClipsDescendants": false,
+      "Name": "Support",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Dupes": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        112
+      ],
+      "Name": "Dupes",
+      "Font": 16,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "Dupes",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 0,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Visible": false,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        70,
+        0,
+        30
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "Remaining": {
+      "ClipsDescendants": false,
+      "Name": "Remaining",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        1,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        1,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        0.07058823853731155,
+        0.5843137502670288,
+        0.9450980424880981
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "ArtPop": {
+      "ClipsDescendants": false,
+      "Name": "ArtPop",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        400,
+        0,
+        250
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "AddonsStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        82
+      ],
+      "Name": "AddonsStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Addons",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.5,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Stroke": {
+      "ClipsDescendants": false,
+      "Name": "Stroke",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0,
+        2,
+        0,
+        2
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 0,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "frame": {
+      "ClipsDescendants": false,
+      "Name": "frame",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Amount": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Name": "Amount",
+      "Font": 3,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 2,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 28,
+      "AnchorPoint": [
+        0.5,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        28
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 4,
+      "LineHeight": 1
+    },
+    "Flag": {
+      "ImageColor3": [
+        1,
+        1,
+        1
+      ],
+      "ClipsDescendants": false,
+      "SliceScale": 1,
+      "ImageRectOffset": [
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "LayoutOrder": 0,
+      "Visible": true,
+      "ZIndex": 1,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        16,
+        0,
+        11
+      ],
+      "NextSelectionRight": "nil",
+      "TileSize": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Image": "rbxassetid://6192791582",
+      "Archivable": true,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "SliceCenter": "0, 0, 0, 0",
+      "Name": "Flag",
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "Parent": null,
+      "ImageRectSize": [
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "ScaleType": 0,
+      "SizeConstraint": 0,
+      "ImageTransparency": 0,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "gamemodes": {
+      "ClipsDescendants": true,
+      "Name": "gamemodes",
+      "ScrollBarImageTransparency": 0,
+      "Rotation": 0,
+      "HorizontalScrollBarInset": 0,
+      "ScrollBarThickness": 6,
+      "LayoutOrder": 0,
+      "VerticalScrollBarInset": 0,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "Archivable": true,
+      "AnchorPoint": [
+        0,
+        0.5
+      ],
+      "Visible": true,
+      "ScrollBarImageColor3": [
+        0.7058823704719543,
+        0.7058823704719543,
+        0.7058823704719543
+      ],
+      "ScrollingEnabled": true,
+      "VerticalScrollBarPosition": 0,
+      "Position": [
+        0,
+        0,
+        0.5,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "ElasticBehavior": 0,
+      "Size": [
+        0,
+        200,
+        1,
+        0
+      ],
+      "BottomImage": "rbxasset://textures/ui/Scroll/scroll-bottom.png",
+      "CanvasPosition": [
+        0,
+        0
+      ],
+      "MidImage": "rbxasset://textures/ui/Scroll/scroll-middle.png",
+      "CanvasSize": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "Parent": null,
+      "BorderSizePixel": 0,
+      "TopImage": "rbxasset://textures/ui/Scroll/scroll-top.png",
+      "RootLocalizationTable": "nil",
+      "SizeConstraint": 0,
+      "Selectable": true,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "ScrollingDirection": 4,
+      "NextSelectionLeft": "nil"
+    },
+    "Disabled": {
+      "ClipsDescendants": false,
+      "Name": "Disabled",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "UIGridLayout": {
+      "Archivable": true,
+      "SortOrder": 2,
+      "FillDirectionMaxCells": 2,
+      "Name": "UIGridLayout",
+      "HorizontalAlignment": 0,
+      "VerticalAlignment": 0,
+      "StartCorner": 0,
+      "CellSize": [
+        0,
+        150,
+        0,
+        20
+      ],
+      "Parent": null,
+      "CellPadding": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "FillDirection": 0
+    },
+    "ImageLabel": {
+      "NextSelectionLeft": "nil",
+      "Modal": false,
+      "SliceScale": 1,
+      "ClipsDescendants": false,
+      "HoverImage": "",
+      "Position": [
+        0.5,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Size": [
+        1,
+        0,
+        1,
+        -50
+      ],
+      "PressedImage": "",
+      "Selected": false,
+      "NextSelectionRight": "nil",
+      "TileSize": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Image": "rbxassetid://6192984431",
+      "Archivable": true,
+      "AnchorPoint": [
+        0.5,
+        1
+      ],
+      "Rotation": 0,
+      "Style": 0,
+      "Visible": true,
+      "ZIndex": 1,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "SliceCenter": "0, 0, 0, 0",
+      "Name": "ImageLabel",
+      "ImageRectOffset": [
+        0,
+        0
+      ],
+      "AutoButtonColor": false,
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 0,
+      "Parent": null,
+      "NextSelectionUp": "nil",
+      "ImageRectSize": [
+        0,
+        0
+      ],
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "ScaleType": 3,
+      "SizeConstraint": 0,
+      "ImageColor3": [
+        1,
+        1,
+        1
+      ],
+      "ImageTransparency": 0,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0
+    },
+    "Meshes/RTextScalable": {
+      "LeftParamB": 0.5,
+      "LeftParamA": -0.5,
+      "Rotation": "0, 90, 0",
+      "BottomSurface": 0,
+      "CustomPhysicalProperties": "nil",
+      "CFrame": [
+        0.25,
+        -3.5,
+        2.25,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ],
+      "Parent": null,
+      "BackParamA": -0.5,
+      "RightSurfaceInput": 0,
+      "Archivable": true,
+      "Material": 288,
+      "BottomParamA": -0.5,
+      "RotVelocity": "0, 0, 0",
+      "LeftSurfaceInput": 0,
+      "TopParamA": -0.5,
+      "TopParamB": 0.5,
+      "Name": "Meshes/RTextScalable",
+      "CollisionGroupId": 0,
+      "Transparency": 0,
+      "Color": [
+        1,
+        1,
+        1
+      ],
+      "RightSurface": 0,
+      "Locked": false,
+      "Velocity": "0, 0, 0",
+      "LeftSurface": 0,
+      "Orientation": "0, 90, 0",
+      "TopSurfaceInput": 0,
+      "BackSurfaceInput": 0,
+      "RightParamA": -0.5,
+      "TopSurface": 0,
+      "CanCollide": true,
+      "FrontParamA": -0.5,
+      "BottomParamB": 0.5,
+      "FrontSurface": 0,
+      "BackSurface": 0,
+      "BottomSurfaceInput": 0,
+      "FrontSurfaceInput": 0,
+      "BrickColor": "Institutional white",
+      "FrontParamB": 0.5,
+      "Size": "4.48526812, 6.01498848e-16, 0.593586981",
+      "Position": "0.25, -3.5, 2.25",
+      "Anchored": false,
+      "Reflectance": 0,
+      "BackParamB": 0.5,
+      "TextureID": "",
+      "RightParamB": 0.5
+    },
+    "Games": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Name": "Games",
+      "Font": 3,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Text": "",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 2,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        1,
+        0.5
+      ],
+      "Visible": true,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        1,
+        -8,
+        1,
+        -8
+      ],
+      "AutoButtonColor": false,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 2,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "DisplayB": {
+      "ImageColor3": [
+        1,
+        1,
+        1
+      ],
+      "ClipsDescendants": false,
+      "SliceScale": 1,
+      "ImageRectOffset": [
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "LayoutOrder": 0,
+      "Visible": true,
+      "ZIndex": 1,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "NextSelectionRight": "nil",
+      "TileSize": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Image": "",
+      "Archivable": true,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "SliceCenter": "0, 0, 0, 0",
+      "Name": "DisplayB",
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "Parent": null,
+      "ImageRectSize": [
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "ScaleType": 4,
+      "SizeConstraint": 0,
+      "ImageTransparency": 0,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "MenuArt": {
+      "ClipsDescendants": false,
+      "Name": "MenuArt",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "SavesStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        142
+      ],
+      "Name": "SavesStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Saves",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.75,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "NewGame": {
+      "ResetOnSpawn": true,
+      "Archivable": true,
+      "RootLocalizationTable": "nil",
+      "DisplayOrder": 1,
+      "Name": "NewGame",
+      "Parent": null,
+      "ZIndexBehavior": 1,
+      "AutoLocalize": true,
+      "IgnoreGuiInset": false,
+      "Enabled": false
+    },
+    "ViewportFrame": [],
+    "G2": {
+      "ClipsDescendants": false,
+      "Name": "G2",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        5
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 0,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 0,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        0,
+        0,
+        0
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Options": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        202
+      ],
+      "Name": "Options",
+      "Font": 16,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "Options",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 0,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Visible": false,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        93,
+        0,
+        30
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "Visits": {
+      "ClipsDescendants": false,
+      "Name": "Visits",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Frame": {
+      "ClipsDescendants": false,
+      "Name": "Frame",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 0,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Update": {
+      "ClipsDescendants": false,
+      "Name": "Update",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        1,
+        -50,
+        0,
+        50
+      ],
+      "Size": [
+        0,
+        400,
+        0,
+        300
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": true,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        1,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Saves": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        142
+      ],
+      "Name": "Saves",
+      "Font": 16,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "Saves",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 0,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Visible": false,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        70,
+        0,
+        30
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "Updates": {
+      "ClipsDescendants": false,
+      "Name": "Updates",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Version": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "Name": "Version",
+      "Font": 10,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Rotation": 0,
+      "Text": "INDEV",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 1,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        1,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 0,
+      "Size": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        1,
+        1,
+        1
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0.5,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "Low": {
+      "ClipsDescendants": false,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "Name": "Low",
+      "Font": 3,
+      "NextSelectionDown": "nil",
+      "Style": 0,
+      "Rotation": 0,
+      "TextColor3": [
+        1,
+        1,
+        1
+      ],
+      "Text": "5R$",
+      "Selected": false,
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextXAlignment": 2,
+      "Archivable": true,
+      "TextSize": 14,
+      "AnchorPoint": [
+        0,
+        1
+      ],
+      "Visible": true,
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0.3330000042915344,
+        0,
+        0,
+        14
+      ],
+      "AutoButtonColor": true,
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": true,
+      "SizeConstraint": 0,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "LayoutOrder": 0,
+      "LineHeight": 1,
+      "NextSelectionRight": "nil",
+      "Modal": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "NextSelectionLeft": "nil"
+    },
+    "TextLabel": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Name": "TextLabel",
+      "Font": 3,
+      "TextColor3": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "Rotation": 90,
+      "Text": ":?",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 2,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 18,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 0,
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 1,
+      "TextTransparency": 0,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "NewGameStroke": {
+      "NextSelectionUp": "nil",
+      "SelectionImageObject": "nil",
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Name": "NewGameStroke",
+      "Font": 16,
+      "TextColor3": [
+        0,
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "Text": "Start New Game",
+      "NextSelectionLeft": "nil",
+      "TextXAlignment": 0,
+      "NextSelectionRight": "nil",
+      "Visible": true,
+      "Archivable": true,
+      "TextSize": 30,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "TextScaled": false,
+      "TextYAlignment": 1,
+      "Size": [
+        0,
+        200,
+        0,
+        30
+      ],
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "TextStrokeColor3": [
+        0,
+        0,
+        0
+      ],
+      "NextSelectionDown": "nil",
+      "BackgroundTransparency": 1,
+      "BorderSizePixel": 1,
+      "Parent": null,
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "ClipsDescendants": false,
+      "TextTruncate": 0,
+      "TextStrokeTransparency": 1,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "TextWrapped": false,
+      "ZIndex": 0,
+      "TextTransparency": 0.5,
+      "LayoutOrder": 0,
+      "LineHeight": 1
+    },
+    "output": {
+      "ClipsDescendants": true,
+      "Name": "output",
+      "ScrollBarImageTransparency": 0,
+      "Rotation": 0,
+      "HorizontalScrollBarInset": 0,
+      "ScrollBarThickness": 12,
+      "LayoutOrder": 1,
+      "VerticalScrollBarInset": 0,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "Archivable": true,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Visible": true,
+      "ScrollBarImageColor3": [
+        0,
+        0,
+        0
+      ],
+      "ScrollingEnabled": true,
+      "VerticalScrollBarPosition": 0,
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "ElasticBehavior": 0,
+      "Size": [
+        1,
+        -8,
+        1,
+        -40
+      ],
+      "BottomImage": "rbxasset://textures/ui/Scroll/scroll-bottom.png",
+      "CanvasPosition": [
+        0,
+        0
+      ],
+      "MidImage": "rbxasset://textures/ui/Scroll/scroll-middle.png",
+      "CanvasSize": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "BackgroundTransparency": 0,
+      "Parent": null,
+      "BorderSizePixel": 0,
+      "TopImage": "rbxasset://textures/ui/Scroll/scroll-top.png",
+      "RootLocalizationTable": "nil",
+      "SizeConstraint": 0,
+      "Selectable": true,
+      "BackgroundColor3": [
+        0.2980392277240753,
+        0.30980393290519714,
+        0.32156863808631897
+      ],
+      "AutoLocalize": true,
+      "Active": true,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "ScrollingDirection": 2,
+      "NextSelectionLeft": "nil"
+    },
+    "Maps2": {
+      "ClipsDescendants": false,
+      "Name": "Maps2",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "Editor": {
+      "ClipsDescendants": false,
+      "Name": "Editor",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        0,
+        400,
+        0,
+        300
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 0,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    },
+    "BG": {
+      "ImageColor3": [
+        1,
+        1,
+        1
+      ],
+      "ClipsDescendants": false,
+      "SliceScale": 1,
+      "ImageRectOffset": [
+        0,
+        0
+      ],
+      "Rotation": 0,
+      "LayoutOrder": 0,
+      "Visible": true,
+      "ZIndex": 2,
+      "SelectionImageObject": "nil",
+      "Position": [
+        0.5,
+        0,
+        0.5,
+        0
+      ],
+      "Size": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "NextSelectionRight": "nil",
+      "TileSize": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "Image": "",
+      "Archivable": true,
+      "AnchorPoint": [
+        0.5,
+        0.5
+      ],
+      "SliceCenter": "0, 0, 0, 0",
+      "Name": "BG",
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "Parent": null,
+      "ImageRectSize": [
+        0,
+        0
+      ],
+      "NextSelectionUp": "nil",
+      "RootLocalizationTable": "nil",
+      "Selectable": false,
+      "ScaleType": 4,
+      "SizeConstraint": 0,
+      "ImageTransparency": 0.8999999761581421,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "AutoLocalize": true,
+      "Active": false,
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionDown": "nil",
+      "NextSelectionLeft": "nil"
+    },
+    "exit": {
+      "ClipsDescendants": false,
+      "Name": "exit",
+      "LayoutOrder": 0,
+      "Selectable": false,
+      "SizeConstraint": 0,
+      "Position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "Size": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "SelectionImageObject": "nil",
+      "Rotation": 0,
+      "Style": 0,
+      "RootLocalizationTable": "nil",
+      "Visible": false,
+      "NextSelectionRight": "nil",
+      "ZIndex": 1,
+      "AnchorPoint": [
+        0,
+        0
+      ],
+      "Archivable": true,
+      "BorderSizePixel": 1,
+      "BackgroundTransparency": 1,
+      "NextSelectionUp": "nil",
+      "Parent": null,
+      "BackgroundColor3": [
+        1,
+        1,
+        1
+      ],
+      "Active": false,
+      "AutoLocalize": true,
+      "NextSelectionDown": "nil",
+      "BorderColor3": [
+        0.10588236153125763,
+        0.16470588743686676,
+        0.20784315466880798
+      ],
+      "NextSelectionLeft": "nil"
+    }
+  }
+}
