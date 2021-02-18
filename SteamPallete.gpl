@@ -1,0 +1,17 @@
+GIMP Palette
+Name: Steam
+Columns: 0
+#
+ 36  40  47	Background_0_0
+ 41  47  59	Background_0_1
+ 27  40  56	Background_1_0
+ 27  65  89	Background_1_1
+ 23  26  33	Header_0
+ 30  39  57	Header_1
+198 212 223	Font_0
+102 192 244	Font_1
+ 62 126 167	Button_0
+102 192 244	Button_1
+ 80 108 134	Button_2_0
+ 16  20  49	Button_2_1
+161 198 220	Highlight_0
