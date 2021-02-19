@@ -63,8 +63,8 @@ commands:bind("c","+menu_context")
 commands:bind("v","noclip")
 commands:bind("b","+zoom")
 
-commands:cl_allowupload() "1"
-commands:cl_smooth() "1"
-commands:mp_decals() "2048"
-commands:r_decals() "2048"
-commands:sensitivity() "6"
+commands:cl_allowupload(true)
+commands:cl_smooth(true)
+commands:mp_decals(2048)
+commands:r_decals(2048)
+commands:sensitivity(6)
