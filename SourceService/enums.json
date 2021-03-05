@@ -12,8 +12,8 @@
 	"AMMO":{
 		// idk why but these arent in the source engine
 		// I'm still including them cause that is stupid
-		"AMMO_FORCE_DROP_IF_CARRIED"=1,
-		"AMMO_INTERPRET_PLRDAMAGE_AS_DAMAGE_TO_PLAYER"=2
+		"AMMO_FORCE_DROP_IF_CARRIED":1,
+		"AMMO_INTERPRET_PLRDAMAGE_AS_DAMAGE_TO_PLAYER":2
 	},
 	"ANALOG":{
 		"ANALOG_MOUSE_X":0,
