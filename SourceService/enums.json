@@ -4,5 +4,26 @@
 		"ONOFF_USE":1,
 		"DIRECTIONAL_USE":2,
 		"SIMPLE_USE":3
+	},
+	"ACT":{
+		// im not writing all of that
+		// ill get someone to do it at some point
+	},
+	"AMMO":{
+		// idk why but these arent in the source engine
+		// I'm still including them cause that is stupid
+		"AMMO_FORCE_DROP_IF_CARRIED"=1,
+		"AMMO_INTERPRET_PLRDAMAGE_AS_DAMAGE_TO_PLAYER"=2
+	},
+	"ANALOG":{
+		"ANALOG_MOUSE_X":0,
+		"ANALOG_MOUSE_Y":1,
+		"ANALOG_MOUSE_WHEEL":3,
+		"ANALOG_JOY_X":4,
+		"ANALOG_JOY_Y":5,
+		"ANALOG_JOY_Z":6,
+		"ANALOG_JOY_R":7,
+		"ANALOG_JOY_U":8,
+		"ANALOG_JOY_V":9
 	}
 }
