@@ -1,0 +1,15 @@
+{"ACT":
+ {
+	"CONTINUOUS_USE":0,
+	"DIRECTIONAL_USE":2,
+	"SIMPLE_USE":3,
+	"ONOFF_USE":1
+ },
+ "_USE":
+ {
+	 "CONTINUOUS_USE":0,
+	 "DIRECTIONAL_USE":2,
+	 "SIMPLE_USE":3,
+	 "ONOFF_USE":1
+ }
+}
