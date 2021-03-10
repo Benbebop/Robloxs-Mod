@@ -11,9 +11,10 @@ tmp.Name = "convertOffset"
 tmp.LayoutOrder = 0
 tmp.Text = "convertOffset"
 tmp.Size = UDim2.new(1, -24, 0, 24)
+tmp.BackgroundTransparency = 1
 local convertOffset = Instance.new("ImageButton", tmp)
 convertOffset.Size = UDim2.new(0, 16, 0, 16)
-convertOffset.Position = UDim2.new(1, -12, 0, 4)
+convertOffset.Position = UDim2.new(1, -8, 0, 4)
 convertOffset.BackgroundColor3 = Color3.new(0, 0.6, 1)
 convertOffset.BorderColor3 = Color3.new(0.8, 0.8, 0.8)
 convertOffset:SetAttribute("value", true)
