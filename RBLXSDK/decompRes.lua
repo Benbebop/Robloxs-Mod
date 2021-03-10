@@ -20,6 +20,7 @@ return function(str, configWidget)
 	convertOffset.BackgroundColor3 = Color3.new(0, 0.6, 1)
 	convertOffset.BorderColor3 = Color3.new(0.8, 0.8, 0.8)
 	convertOffset.AutoButtonColor = false
+	convertOffset.Image = "rbxasset://textures/DeveloperFramework/checkbox_checked_light.png"
 	convertOffset:SetAttribute("value", true)
 	convertOffset.MouseButton1Click:Connect(function()
 		local value = not convertOffset:GetAttribute("value")
