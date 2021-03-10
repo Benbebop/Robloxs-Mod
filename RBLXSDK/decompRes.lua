@@ -39,6 +39,7 @@ return function(str, configWidget)
 	done.MouseButton1Click:Wait()
 	local config = {["configOffset"] = convertOffset:GetAttribute("value")}
 	
+	str = string.gsub(str, "\\\\", "--")
 	local lines = string.split(str, "\n")
 	for i,v in ipairs(lines) do
 		local _, b = string.find(v, "\".-\"")
