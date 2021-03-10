@@ -34,6 +34,7 @@ return function(str, configWidget)
 		convertOffset:SetAttribute("value", value)
 	end)
 	local done = Instance.new("TextButton", configWidget)
+	done.Size = UDim2.new(0, 72, 0, 24)
 	done.Name = "zzzzzzzzzz"
 	done.Text = "Done"
 	done.MouseButton1Click:Wait()
