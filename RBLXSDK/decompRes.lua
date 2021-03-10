@@ -13,6 +13,7 @@ return function(str, configWidget)
 	tmp.Text = "convertOffset"
 	tmp.Size = UDim2.new(1, -24, 0, 24)
 	tmp.BackgroundTransparency = 1
+	tmp.BorderColor3 = Color3.new(0.9, 0.9, 0.9)
 	local convertOffset = Instance.new("ImageButton", tmp)
 	convertOffset.Size = UDim2.new(0, 16, 0, 16)
 	convertOffset.Position = UDim2.new(1, -8, 0, 4)
