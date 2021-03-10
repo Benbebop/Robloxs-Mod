@@ -1,5 +1,7 @@
 local http = game:GetService("HttpService")
 
+local plugin = require(script.Parent.getPlugin)
+
 local configWidget = plugin:CreateDockWidgetPluginGui("tmpConfigWidget", DockWidgetPluginGuiInfo.new(Enum.InitialDockState.Float, true, true, 200, 100, 200, 100))
 configWidget.Title = "Convert Resource File"
 
@@ -26,6 +28,12 @@ convertOffset.MouseButton1Click:Connect(function()
 	end
 	convertOffset:SetAttribute("value", value)
 end)
+local done = Instance.new("TextButton", configWidget)
+done.Name = "zzzzzzzzzz"
+done.Text = "Done"
+done.MouseButton1Click:Wait()
+local config = {["configOffset"] = convertOffset:GetAttribute("value")}
+configWidget:Destroy()
 
 return function(str)
 	local lines = string.split(str, "\n")
