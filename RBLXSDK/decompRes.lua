@@ -59,5 +59,7 @@ return function(str, configWidget)
 	for i,v in ipairs(lines) do
 		result = result .. v
 	end
-	return http:JSONDecode("{" .. string.sub(result, 1, -2) .. "}")
+	local guiTable = http:JSONDecode("{" .. string.sub(result, 1, -2) .. "}")
+	print(guiTable)
+	return
 end
