@@ -1,4 +1,5 @@
 Mesh: 1 stud = 1 m = 52.49 AHU
 Gravity: 1 stud = 5 cm = 2.62 AHU
 VR: 1 stud = 33.4 cm = 17.53 AHU
+Robloxian: 1 stud ≈ 36 cm = 18.8964 AHU
 Official: 1 stud = 30 cm = 15.74 AHU
