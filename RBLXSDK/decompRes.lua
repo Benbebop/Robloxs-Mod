@@ -2,6 +2,10 @@ local http = game:GetService("HttpService")
 
 local plugin = require(script.Parent.getPlugin)
 
+--[[
+This is a quite lazy way of parsing it since it relies on line breaks. 
+I wouldn't use this outside of personal stuff.
+]]
 return function(str, configWidget)
 	configWidget.Title = "Convert Resource File"
 	configWidget:ClearAllChildren()
