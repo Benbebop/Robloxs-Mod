@@ -12,7 +12,6 @@ function parse(str)
 	local tbl = {}
 	local cursor, cursorMax = 0, 0
 	repeat
-		wait(0.01)
 		-- KEY --
 		
 		local _, entryStart = string.find(str, "%s*", cursor) 
