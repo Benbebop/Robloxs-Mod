@@ -1,71 +1,115 @@
 local http = game:GetService("HttpService")
 
-local plugin = require(script.Parent.getPlugin)
+--[[big mc thankies from mc spankies to nobody cause I had to write this myself]]
 
---[[
-This is a quite lazy way of parsing it since it relies on line breaks. 
-I wouldn't use this outside of personal stuff.
-]]
-return function(str, configWidget)
-	configWidget.Title = "Convert Resource File"
-	configWidget:ClearAllChildren()
-
-	Instance.new("UIListLayout", configWidget)
-	local tmp = Instance.new("TextLabel", configWidget)
-	tmp.Name = "convertOffset"
-	tmp.LayoutOrder = 0
-	tmp.Text = "convertOffset"
-	tmp.Size = UDim2.new(1, -24, 0, 24)
-	tmp.BackgroundTransparency = 1
-	tmp.BorderColor3 = Color3.new(0.9, 0.9, 0.9)
-	local convertOffset = Instance.new("ImageButton", tmp)
-	convertOffset.Size = UDim2.new(0, 16, 0, 16)
-	convertOffset.Position = UDim2.new(1, -8, 0, 4)
-	convertOffset.BackgroundColor3 = Color3.new(0, 0.6, 1)
-	convertOffset.BorderColor3 = Color3.new(0.8, 0.8, 0.8)
-	convertOffset.AutoButtonColor = false
-	convertOffset.Image = "rbxasset://textures/DeveloperFramework/checkbox_checked_light.png"
-	convertOffset:SetAttribute("value", true)
-	convertOffset.MouseButton1Click:Connect(function()
-		local value = not convertOffset:GetAttribute("value")
-		if value then
-			convertOffset.BackgroundColor3 = Color3.new(0, 0.6, 1)
-			convertOffset.Image = "rbxasset://textures/DeveloperFramework/checkbox_checked_light.png"
+local function parse(str)
+	local tbl = {}
+	local cursor = 0
+	repeat
+		-- KEY --
+		
+		local _, entryStart = string.find(str, "%s*", cursor) 
+		-- the character before the key
+		
+		local key, keyStart, keyEnd = nil, nil, nil
+		keyStart = entryStart + 1
+		-- start of key
+		
+		if string.sub(str, keyStart, keyStart) == "\""  then -- if first character of the key is a quote
+			_, keyEnd = string.find(str, "[^\\]\"", keyStart + 1)
+			-- end of key
+			
+			key = string.sub(str, keyStart + 1, keyEnd - 1)
+			-- the key name
 		else
-			convertOffset.BackgroundColor3 = Color3.new(1, 1, 1)
-			convertOffset.Image = ""
+			_, keyEnd = string.find(str, "%s", keyStart)
+			keyEnd = keyEnd - 1
+			-- end of key
+			
+			key = string.sub(str, keyStart, keyEnd):gsub("+", " ")
+			-- the key name
 		end
-		convertOffset:SetAttribute("value", value)
-	end)
-	local done = Instance.new("TextButton", configWidget)
-	done.Size = UDim2.new(0, 72, 0, 24)
-	done.Name = "zzzzzzzzzz"
-	done.Text = "Done"
-	done.MouseButton1Click:Wait()
-	local config = {["configOffset"] = convertOffset:GetAttribute("value")}
-	
-	str = string.gsub(str, "\\\\", "--")
-	local lines = string.split(str, "\n")
-	for i,v in ipairs(lines) do
-		local _, b = string.find(v, "\".-\"")
-		if b then
-			lines[i] = string.sub(v, 1, b) .. ":" .. string.sub(v, b + 1)
+		
+		-- VALUE --
+		
+		local _, entryStart = string.find(str, "%s*", keyEnd + 1)
+		-- the character before the value
+		
+		local value, valueStart, valueEnd, valueType = nil, nil, nil, nil
+		valueStart = entryStart + 1
+		-- start of value
+		
+		if string.sub(str, entryStart + 1, entryStart + 1) == "\"" then -- if first character of the value is a quote
+			valueType = "string"
+			-- type of the value
+			
+			_, valueEnd = string.find(str, "[^\\]\"", valueStart)
+			-- end of value
+			
+			value = string.sub(str, valueStart + 1, valueEnd - 1)
+			-- the value content
+		else
+			_, valueEnd = string.find(str, "%s", valueStart + 1)
+			valueEnd = valueEnd - 1
+			-- end of value
+			
+			value = string.sub(str, valueStart, valueEnd)
+			-- the value content
+			
+			if value:match("/") then -- if the value contains a slash
+				valueType = "directory"
+				-- type of the value
+				
+			elseif value:match("^[%d%.]*$") then -- if the value is entirely didgets
+				valueType = "number"
+				-- type of the value
+				
+				value = tonumber(value)	
+				-- the value content
+			elseif value == "{" then -- if the values is the start of a table
+				valueType = "table"
+				-- type of the value
+				
+				local tblCursor, bracketRatio, i = 0, 0, 0
+				tblCursor = valueStart + 1
+				-- first character of the key name
+				
+				repeat
+					i = i + 1
+					local _, t = string.find(str, ".-[{}]", tblCursor)
+					-- next open or closed bracket
+					
+					if str:sub(t, t) == "{" then -- if the bracket is open
+						bracketRatio = bracketRatio + 1
+						-- increase the ratio by 1
+						
+					elseif str:sub(t, t) == "}" then -- if the bracket is closed
+						bracketRatio = bracketRatio - 1
+						-- decrease the ratio by 1
+						
+					end
+					tblCursor = t + 1
+					-- one character after the current bracket
+					
+				until bracketRatio <= 0 or i > 20000 or t == nil
+				
+				value = parse(string.sub(str, valueStart + 1, tblCursor - 1))
+				-- the value content
+			else
+				valueType = "string"
+			end
 		end
-		local _, c = string.gsub(v, "\"", "")
-		local _, d = string.gsub(v, "}", "")
-		local e = 0
-		if lines[i + 1] ~= nil then
-			_, e = string.gsub(lines[i + 1], "}", "")
-		end
-		if (c >= 4 or d >= 1) and not (e >= 1) then
-			lines[i] = lines[i] .. ","
-		end
-	end
-	local result = ""
-	for i,v in ipairs(lines) do
-		result = result .. v
-	end
-	local guiTable = http:JSONDecode("{" .. string.sub(result, 1, -2) .. "}")
-	print(guiTable)
-	return
+		cursor = valueEnd
+		print("keyvalue : " .. tostring(key) .. ", " .. tostring(value))
+		tbl[key] = value:gsub("\n", "")
+		local _, nextEntry = string.find(str, "%s*", cursor)
+	until nextEntry >= #str
+	return tbl
 end
+
+function run(str)
+	local tbl = parse(str)
+	return tbl
+end
+
+return run
