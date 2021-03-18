@@ -2,6 +2,8 @@ local http = game:GetService("HttpService")
 
 --[[big mc thankies from mc spankies to nobody cause I had to write this myself]]
 
+--[[still doenst work yet for some reason]]
+
 local function parse(str)
 	local tbl = {}
 	local cursor = 0
