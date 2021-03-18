@@ -6,6 +6,8 @@ local function topurenumber(number)
 	end
 end
 
+-- still doesnt work with comments for some god forsaken reason, should get fixed eventually
+
 function parse(str)
 	local tbl = {}
 	local cursor, cursorMax = 0, 0
