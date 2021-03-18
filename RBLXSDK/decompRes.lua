@@ -6,7 +6,7 @@ local function topurenumber(number)
 	end
 end
 
-local function parse(str)
+function parse(str)
 	local tbl = {}
 	local cursor, cursorMax = 0, 0
 	repeat
@@ -134,9 +134,4 @@ local function parse(str)
 	return tbl
 end
 
-function run(str)
-	local tbl = parse(str)
-	return tbl
-end
-
-return run
+return parse
