@@ -1,3 +1,4 @@
+local http = game:GetService("HttpService")
 local function topurenumber(number)
 	if type(number) ~= "number" then
 		return 0
@@ -6,9 +7,7 @@ local function topurenumber(number)
 	end
 end
 
--- still doesnt work with comments for some god forsaken reason, should get fixed eventually
-
-function parse(str)
+local function parse(str)
 	local tbl = {}
 	local cursor, cursorMax = 0, 0
 	repeat
@@ -96,13 +95,14 @@ function parse(str)
 				valueType = "table"
 				-- type of the value
 				
-				local tblCursor, bracketRatio, i = 0, 0, 0
+				local tblCursor, bracketRatio, i = 0, 1, 0
 				tblCursor = valueStart + 1
 				-- first character of the key name
 				
 				repeat
 					i = i + 1
 					local _, t = string.find(str, ".-[{}]", tblCursor)
+					t = t
 					-- next open or closed bracket
 					
 					if str:sub(t, t) == "{" then -- if the bracket is open
@@ -114,25 +114,44 @@ function parse(str)
 						-- decrease the ratio by 1
 						
 					end
+					
+					print(i .. " : " .. str:sub(t - 2, t-1) .. ">" .. str:sub(t, t) .. "<" .. str:sub(t + 2, t+1))
+					
 					tblCursor = t + 1
 					-- one character after the current bracket
 					
 				until bracketRatio <= 0 or i > 20000 or t == nil
 				
-				value = parse(string.sub(str, valueStart + 1, tblCursor - 1))
+				print("table start")
+				
+				local parseStr = string.sub(str, valueStart + 1, tblCursor - 2)
+				
+				value = parse(parseStr)
 				-- the value content
 				
-				valueEnd = tblCursor + valueStart + 1
+				print("table end: " .. parseStr)
+				
+				valueEnd = #parseStr + valueStart + 1
+				-- character after the last bracket of the table
 			else
 				valueType = "string"
 			end
 		end
 		cursor = valueEnd + 1
 		cursorMax = math.max(cursorMax, cursor)
+		local dbgstr = str:gsub("\n", " ")
+		print("key: " .. dbgstr:sub(keyStart - 10, keyStart - 2):gsub("\n", "") .. ">" .. dbgstr:sub(keyStart, keyEnd) .. "<" .. dbgstr:sub(keyEnd + 2, keyEnd + 10))
+		print("value: " .. dbgstr:sub(valueStart - 10, valueStart - 2) .. ">" .. dbgstr:sub(valueStart, valueEnd) .. "<" .. dbgstr:sub(valueEnd + 2, valueEnd + 10))
+		print("keyvalue : " .. tostring(key) .. ", " .. tostring(value))
 		tbl[key] = value
 		local _, nextEntry = string.find(str, "%s*", cursor)
 	until cursor < cursorMax or cursor >= #str
 	return tbl
 end
 
-return parse
+function run(str)
+	local tbl = parse(str)
+	return tbl
+end
+
+return run
