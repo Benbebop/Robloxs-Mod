@@ -1,4 +1,7 @@
 local http = game:GetService("HttpService")
+
+--[[big mc thankies from mc spankies to nobody cause I had to write this myself]]
+
 local function topurenumber(number)
 	if type(number) ~= "number" then
 		return 0
@@ -140,9 +143,6 @@ local function parse(str)
 		cursor = valueEnd + 1
 		cursorMax = math.max(cursorMax, cursor)
 		local dbgstr = str:gsub("\n", " ")
-		print("key: " .. dbgstr:sub(keyStart - 10, keyStart - 2):gsub("\n", "") .. ">" .. dbgstr:sub(keyStart, keyEnd) .. "<" .. dbgstr:sub(keyEnd + 2, keyEnd + 10))
-		print("value: " .. dbgstr:sub(valueStart - 10, valueStart - 2) .. ">" .. dbgstr:sub(valueStart, valueEnd) .. "<" .. dbgstr:sub(valueEnd + 2, valueEnd + 10))
-		print("keyvalue : " .. tostring(key) .. ", " .. tostring(value))
 		tbl[key] = value
 		local _, nextEntry = string.find(str, "%s*", cursor)
 	until cursor < cursorMax or cursor >= #str
