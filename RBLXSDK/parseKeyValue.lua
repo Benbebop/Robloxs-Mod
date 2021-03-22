@@ -1,7 +1,5 @@
 local http = game:GetService("HttpService")
 
---[[big mc thankies from mc spankies to nobody cause I had to write this myself]]
-
 local function topurenumber(number)
 	if type(number) ~= "number" then
 		return 0
