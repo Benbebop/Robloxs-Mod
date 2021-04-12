@@ -1,6 +1,7 @@
 {
 	"MusicBasedShooterGame"
 	{
-		id			155724530
+		id	155724530
+		package	null
 	}
 }
